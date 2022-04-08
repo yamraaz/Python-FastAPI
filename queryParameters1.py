@@ -10,5 +10,6 @@ async def optionalQueryParameters(userId: int,
     return {"userId": userId, "itemId":itemId}
 
 # this code can be used when we need to keep one extra optional parameters
+#
 
 
